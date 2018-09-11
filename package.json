@@ -1,11 +1,14 @@
 {
   "name": "fy-cli",
   "version": "0.0.1",
-  "author": {
-    "name": "flasco"
+  "author": "flasco <https://github.com/flasco>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flasco/fy-cli"
   },
+  "description": "translate command prj in osx, use baidu translate api, just support zh2en or en2zh",
   "keywords": [
-    "fy", "fy-cli"
+    "fy", "fy-cli", "translate"
   ],
   "main": "index.js",
   "bin": {
