@@ -1,0 +1,22 @@
+{
+  "name": "fy-cli",
+  "version": "0.0.1",
+  "author": {
+    "name": "flasco"
+  },
+  "keywords": [
+    "fy", "fy-cli"
+  ],
+  "main": "index.js",
+  "bin": {
+    "fy": "bin/fy"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "minimist": "^1.2.0"
+  }
+}
