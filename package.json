@@ -8,7 +8,9 @@
   },
   "description": "translate command prj in osx, use baidu translate api, just support zh2en or en2zh",
   "keywords": [
-    "fy", "fy-cli", "translate"
+    "fy",
+    "fy-cli",
+    "translate"
   ],
   "main": "index.js",
   "bin": {
